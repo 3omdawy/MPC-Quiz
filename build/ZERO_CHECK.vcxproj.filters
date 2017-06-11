@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\build\CMakeFiles\8b7bf9637be73840bf9ae6ffc1d731ef\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{21DC853B-FD5B-3F7F-853D-FDA84EAD229F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

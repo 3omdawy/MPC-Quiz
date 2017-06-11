@@ -1,0 +1,17 @@
+﻿  Building Custom Rule C:/Users/delll/CarND-MPC-Quizzes/mpc_to_line/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/delll/CarND-MPC-Quizzes/mpc_to_line/build/CMakeFiles/generate.stamp is up-to-date.
+  MPC.cpp
+c:\users\delll\carnd-mpc-quizzes\mpc_to_line\src\cppad\local/optimize/match_op.hpp(183): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\delll\carnd-mpc-quizzes\mpc_to_line\src\cppad\local/optimize/match_op.hpp(228): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(75): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(98): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(171): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(188): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(196): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(203): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(213): warning C4018: '<': signed/unsigned mismatch
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(152): warning C4101: 'i': unreferenced local variable
+C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\src\MPC.cpp(336): warning C4018: '<': signed/unsigned mismatch
+  mpc.vcxproj -> C:\Users\delll\CarND-MPC-Quizzes\mpc_to_line\build\Debug\mpc.exe
